@@ -1,6 +1,6 @@
 
 > Hey There!, I am Abhishek kumar
-「 I am a full stack web application developer from India 」
+「 I am a React Front end developer from India 」
 
 
 About me
@@ -18,5 +18,5 @@ Coding gif
 
 
 Use To Code
-Javascript Typescript React React Native Next.js Nodejs Express.js MongoDB HTML CSS3  BootstrapReact Query VSCode Git
+Javascript Typescript React React Native Next.js HTML CSS3  Bootstrap React VSCode Git
 
